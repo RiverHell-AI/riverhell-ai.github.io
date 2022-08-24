@@ -26,16 +26,6 @@
 </description>
         </item>
         <item>
-        <title>中文测试</title>
-        <link>https://example.com/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/p/test-chinese/</guid>
-        <description>&lt;img src="https://example.com/p/test-chinese/97443680.jpg" alt="Featured image of post 中文测试" /&gt;&lt;h1 id=&#34;失败的我&#34;&gt;失败的我&lt;/h1&gt;
-&lt;p&gt;今天的我：失败。&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Archives</title>
         <link>https://example.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
