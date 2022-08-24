@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on RiverHell</title>
+        <link>https://example.com/zh-cn/page/</link>
+        <description>Recent content in Pages on RiverHell</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 24 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/zh-cn/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于</title>
+        <link>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;一只小可爱~ヾ(•ω•`)o&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
