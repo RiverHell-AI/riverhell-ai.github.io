@@ -54,9 +54,6 @@
                 href="https://example.com/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://example.com/zh-cn/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/zh-cn/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -84,6 +81,9 @@
                 />
   </url><url>
     <loc>https://example.com/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/zh-cn/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/zh-cn/tags/</loc>
