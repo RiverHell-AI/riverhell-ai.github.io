@@ -12,8 +12,7 @@
         <pubDate>Wed, 24 Aug 2022 22:19:15 +0800</pubDate>
         
         <guid>https://example.com/p/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91/</guid>
-        <description>&lt;h1 id=&#34;今天的我失败了吗&#34;&gt;今天的我失败了吗？&lt;/h1&gt;
-&lt;p&gt;失败了。&lt;/p&gt;
+        <description>&lt;img src="https://example.com/p/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91/IMG_2624.JPG" alt="Featured image of post 今天的我" /&gt;&lt;h1 id=&#34;失败了tat&#34;&gt;失败了。TAT&lt;/h1&gt;
 </description>
         </item>
         <item>
@@ -439,7 +438,7 @@ $$&lt;/p&gt;</description>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/p/emoji-support/</guid>
-        <description>&lt;img src="https://example.com/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <description>&lt;img src="https://example.com/p/emoji-support/Miku.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
