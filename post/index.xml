@@ -6,7 +6,27 @@
         <description>Recent content in Posts on RiverHell</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 24 Aug 2022 22:19:15 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>今天的我</title>
+        <link>https://example.com/p/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91/</link>
+        <pubDate>Wed, 24 Aug 2022 22:19:15 +0800</pubDate>
+        
+        <guid>https://example.com/p/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91/</guid>
+        <description>&lt;h1 id=&#34;今天的我失败了吗&#34;&gt;今天的我失败了吗？&lt;/h1&gt;
+&lt;p&gt;失败了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>中文测试</title>
+        <link>https://example.com/p/test-chinese/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/test-chinese/</guid>
+        <description>&lt;img src="https://example.com/p/test-chinese/97443680.jpg" alt="Featured image of post 中文测试" /&gt;&lt;h1 id=&#34;失败的我&#34;&gt;失败的我&lt;/h1&gt;
+&lt;p&gt;今天的我：失败。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Markdown Syntax Guide</title>
         <link>https://example.com/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
