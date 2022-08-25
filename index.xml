@@ -1,47 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>RiverHell&#39;s Blog (/ω\ )</title>
+        <title>RiverHell&#39;s Blog</title>
         <link>https://example.com/</link>
-        <description>Recent content on RiverHell&#39;s Blog (/ω\ )</description>
+        <description>Recent content on RiverHell&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 24 Aug 2022 23:33:26 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>我不想改论文</title>
-        <link>https://example.com/p/%E6%88%91%E4%B8%8D%E6%83%B3%E6%94%B9%E8%AE%BA%E6%96%87/</link>
-        <pubDate>Wed, 24 Aug 2022 23:33:26 +0800</pubDate>
-        
-        <guid>https://example.com/p/%E6%88%91%E4%B8%8D%E6%83%B3%E6%94%B9%E8%AE%BA%E6%96%87/</guid>
-        <description>&lt;img src="https://example.com/p/%E6%88%91%E4%B8%8D%E6%83%B3%E6%94%B9%E8%AE%BA%E6%96%87/97602507.png" alt="Featured image of post 我不想改论文" /&gt;&lt;p&gt;烦死了，不想改论文。&lt;/p&gt;
-&lt;p&gt;为什么要被抽检！气死我了！&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>今天的我</title>
-        <link>https://example.com/p/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91/</link>
-        <pubDate>Wed, 24 Aug 2022 22:19:15 +0800</pubDate>
-        
-        <guid>https://example.com/p/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91/</guid>
-        <description>&lt;img src="https://example.com/p/%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91/IMG_2624.JPG" alt="Featured image of post 今天的我" /&gt;&lt;h1 id=&#34;失败了tat&#34;&gt;失败了。TAT&lt;/h1&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
         <link>https://example.com/about/</link>
-        <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/about/</guid>
-        <description>&lt;p&gt;(｡･∀･)ﾉﾞWelcome to my blog!&lt;/p&gt;
-&lt;p&gt;这里是RiverHell，一只01年生的废柴+肥宅，NUS Msc ISE在读。这里是我的个人博客，用于记录学习历程与日常感想~&lt;/p&gt;
+        <description>&lt;img src="https://example.com/about/KONATA.jpg" alt="Featured image of post About" /&gt;&lt;p&gt;这里是RiverHell，一只01年的废宅~(｡･∀･)ﾉﾞ&lt;/p&gt;
+&lt;p&gt;目前NUS Msc ISE在读(*/ω＼**)，日常的兴趣爱好是追番+唱歌~&lt;/p&gt;
+&lt;p&gt;这是我的个人博客，用于记录学习历程和日常感想，欢迎到访哟！（＾∀＾●）ﾉｼ&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
         <link>https://example.com/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/archives/</guid>
         <description></description>
+        </item>
+        <item>
+        <title>我不想改论文</title>
+        <link>https://example.com/p/%E6%88%91%E4%B8%8D%E6%83%B3%E6%94%B9%E8%AE%BA%E6%96%87/</link>
+        <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/%E6%88%91%E4%B8%8D%E6%83%B3%E6%94%B9%E8%AE%BA%E6%96%87/</guid>
+        <description>&lt;img src="https://example.com/p/%E6%88%91%E4%B8%8D%E6%83%B3%E6%94%B9%E8%AE%BA%E6%96%87/Markdown.jpg" alt="Featured image of post 我不想改论文" /&gt;&lt;p&gt;很显然，我不想被抽检也不想改论文&amp;hellip;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Links</title>
@@ -49,33 +40,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;My GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;@&lt;span class=&#34;l&#34;&gt;RiverHell-AI&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com/RiverHell-AI&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+        <description>&lt;img src="https://example.com/links/Link.jpg" alt="Featured image of post Links" /&gt;&lt;p&gt;(/ω＼*)………&lt;/p&gt;
 </description>
         </item>
         <item>
