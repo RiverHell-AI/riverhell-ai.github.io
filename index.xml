@@ -6,7 +6,16 @@
         <description>Recent content on RiverHell&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 25 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 07 Dec 2022 01:12:31 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://example.com/p/test/</link>
+        <pubDate>Wed, 07 Dec 2022 01:12:31 +0800</pubDate>
+        
+        <guid>https://example.com/p/test/</guid>
+        <description>&lt;p&gt;＞︿＜&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>About</title>
         <link>https://example.com/about/</link>
         <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
